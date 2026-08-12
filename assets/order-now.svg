@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="76" viewBox="0 0 520 76" role="img" aria-labelledby="title desc">
+  <title id="title">前往星际放映厅下单</title>
+  <desc id="desc">前往星际放映厅下单按钮</desc>
+  <rect width="520" height="76" rx="18" fill="#1778f2"/>
+  <text x="230" y="47" text-anchor="middle" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#ffffff">前往星际放映厅下单</text>
+  <path d="M433 27l12 11-12 11M445 38h-27" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
