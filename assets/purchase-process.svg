@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">SuperGrok购买流程</title>
+  <desc id="desc">确认需求、账号形式、套餐、下单及核对会员状态</desc>
+  <rect width="1200" height="400" rx="24" fill="#f5f7fb"/>
+  <text x="600" y="58" text-anchor="middle" font-size="34" font-weight="700" fill="#1f2937" font-family="Arial, PingFang SC, sans-serif">SuperGrok 购买流程</text>
+  <path d="M125 165H1075" stroke="#aab2c0" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Arial, PingFang SC, sans-serif" text-anchor="middle">
+    <g transform="translate(125 165)"><circle r="38" fill="#1778f2"/><text y="10" font-size="27" fill="#fff">1</text><text y="82" font-size="18" font-weight="700" fill="#1f2937">确认需求</text><text y="108" font-size="15" fill="#666">会员或API</text></g>
+    <g transform="translate(315 165)"><circle r="38" fill="#1778f2"/><text y="10" font-size="27" fill="#fff">2</text><text y="82" font-size="18" font-weight="700" fill="#1f2937">选择产品</text><text y="108" font-size="15" fill="#666">SuperGrok或API</text></g>
+    <g transform="translate(505 165)"><circle r="38" fill="#4d65d7"/><text y="10" font-size="27" fill="#fff">3</text><text y="82" font-size="18" font-weight="700" fill="#1f2937">确认账号</text><text y="108" font-size="15" fill="#666">自己账号或成品号</text></g>
+    <g transform="translate(695 165)"><circle r="38" fill="#4d65d7"/><text y="10" font-size="27" fill="#fff">4</text><text y="82" font-size="18" font-weight="700" fill="#1f2937">查看套餐</text><text y="108" font-size="15" fill="#666">档位与周期</text></g>
+    <g transform="translate(885 165)"><circle r="38" fill="#6d42c7"/><text y="10" font-size="27" fill="#fff">5</text><text y="82" font-size="18" font-weight="700" fill="#1f2937">下单付款</text><text y="108" font-size="15" fill="#666">保存订单</text></g>
+    <g transform="translate(1075 165)"><circle r="38" fill="#16803c"/><text y="10" font-size="27" fill="#fff">6</text><text y="82" font-size="18" font-weight="700" fill="#1f2937">核对状态</text><text y="108" font-size="15" fill="#666">检查会员页面</text></g>
+  </g>
+  <rect x="210" y="315" width="780" height="50" rx="25" fill="#fff" stroke="#c9cfda"/>
+  <text x="600" y="347" text-anchor="middle" font-size="18" fill="#555" font-family="Arial, PingFang SC, sans-serif">账号形式和订单状态没确认前，不要重复付款</text>
+</svg>
