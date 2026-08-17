@@ -1,5 +1,14 @@
 # 更新记录
 
+## 2026-08-17
+
+- 扩充SuperGrok国内购买与付款专题。
+- 新增自己的账号升级与成品账号对比。
+- 新增SuperGrok套餐选择专题。
+- 扩充SuperGrok与X Premium+区别。
+- 扩充SuperGrok与API区别。
+- 增加README热门购买问题内部导航。
+
 ## 2026-08-12
 
 - 创建 2026 Grok / SuperGrok 国内购买指南。
