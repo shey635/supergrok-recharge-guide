@@ -1,6 +1,6 @@
 # [2026最新] Grok国内购买与SuperGrok充值教程：SuperGrok、X Premium+、API怎么选？
 
-> 最后核实日期：2026-08-12
+> 最后核实日期：2026-08-17
 
 国内想用 Grok，最容易搞错的不是注册，而是到底该买什么。SuperGrok、X Premium+、Grok API 看起来都和 Grok 有关，实际不是一回事。只是想在 Grok 里聊天、搜索、用 Imagine、Voice 或 Build 等 AI 能力，通常先看 SuperGrok；软件如果明确要求 API Key，就该看 API。能完成官方付款，直接订最省心。付款不方便，再比较自己账号代充和成品账号。
 
@@ -11,6 +11,14 @@
     <img src="./assets/order-now.svg" alt="前往星际放映厅下单" width="520">
   </a>
 </p>
+
+## Grok购买前最常问的几个问题
+
+- [SuperGrok国内怎么购买？官方订阅、代充和成品账号怎么选](docs/payment-guide.md)
+- [自己的账号代充和成品账号有什么区别？](docs/account-recharge-vs-ready-account.md)
+- [SuperGrok和SuperGrok Plus怎么选？](docs/supergrok-plans.md)
+- [SuperGrok和X Premium+有什么区别？](docs/supergrok-vs-x-premium.md)
+- [SuperGrok包含API吗？](docs/supergrok-vs-api.md)
 
 ![SuperGrok、X Premium+与Grok API关系图](assets/grok-plans.svg)
 
